@@ -8,5 +8,16 @@
     "grunt-contrib-watch": "^0.6.1",
     "matchdep": "^0.3.0",
     "grunt-browserify": "^5.0.0"
+  },
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shawn",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "hbsfy": "^2.7.0"
   }
 }
